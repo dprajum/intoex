@@ -1,0 +1,12 @@
+.bag{
+    text-align: center;
+    background-image:url("https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/Apple-Music-apps.jpg?w=2000&quality=82&strip=all&ssl=1");  
+    height: 100vh;
+    background-size: cover;
+}
+.bagg{
+    background-color:#eb3492;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    padding: 15px;
+}
